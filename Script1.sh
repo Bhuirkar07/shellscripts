@@ -6,3 +6,5 @@ echo "Welcome to Young Minds"
 echo "Hello batch-21, We are learning Jenkins"
 echo "we are modifying this code in feacture"
 echo "we are learning branching strategies"
+echo "We are learning github"
+
